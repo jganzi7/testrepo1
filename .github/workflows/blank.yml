@@ -42,4 +42,7 @@ jobs:
         run: |
           PR_NUMBER=$(gh pr list --state merged --limit 1 --json number --jq '.[0].number')
           echo "number=$PR_NUMBER" >> $GITHUB_OUTPUT      
-          echo "numberx=$PR_NUMBER"
+          echo "number=$PR_NUMBER"
+          echo "number=$PR_NUMBER"
+          echo "full: $(gh pr list --state merged)"
+          
