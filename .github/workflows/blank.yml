@@ -44,5 +44,6 @@ jobs:
           echo "number=$PR_NUMBER" >> $GITHUB_OUTPUT      
           echo "number=$PR_NUMBER"
           echo "number22=$PR_NUMBER"
+          echo "full: $(gh pr list --state merged --json changedFiles)"          
 
           
