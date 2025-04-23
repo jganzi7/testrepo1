@@ -41,4 +41,5 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}        
         run: |
           PR_NUMBER=$(gh pr list --state merged --limit 1 --json number --jq '.[0].number')
-          echo "number=$PR_NUMBER" >> $GITHUB_OUTPUT          
+          echo "number=$PR_NUMBER" >> $GITHUB_OUTPUT      
+          echo "numberx=$PR_NUMBER"
