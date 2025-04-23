@@ -43,8 +43,10 @@ jobs:
           PR_NUMBER=$(gh pr list --state merged --limit 1 --json number --jq '.[0].number')
           echo "number=$PR_NUMBER" >> $GITHUB_OUTPUT      
           echo "number=$PR_NUMBER"
-          echo "full: $(gh pr list --state all --limit 100 --json number,title,files,author,headRefName,baseRefName,mergedAt)"     
+          PR_FULL=$(gh pr list --state all --limit 100 --json number,title,files,author,headRefName,baseRefName,mergedAt)
+          echo "full: $PR_FULL"     
           PR_DIFF=$(gh pr diff "$PR_NUMBER")
           echo "diff: $PR_DIFF"
+          
 
           
