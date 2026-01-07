@@ -1,3 +1,7 @@
+#### I am planing a trip to poland with my wife, two children (14,18). the kids like stuff like legoland and waterparks. we plan to be near krakow (hour drive to the south), in the mountains, in a cabin. suggest stuff to do there
+
+
+
 This is a fantastic plan. Southern Poland is perfect for teenagers (14 and 18) because it balances "kiddie" fun with serious adrenaline.
 
 Since you are looking for an **hour south of Kraków** in a cabin, you are likely looking at the area around **Myślenice, Rabka-Zdrój, or Mszana Dolna**, or perhaps pushing closer to **Zakopane** (which is usually 1.5 - 2 hours from Kraków due to traffic).
@@ -65,10 +69,10 @@ The road from Kraków to Zakopane (called the "Zakopianka") is famous for traffi
 **Would you like me to help you compare the specific Thermal Baths or find the driving distance from a specific town you are considering for the cabin?**
 
 
-Thanks!
-my kids have ASD, that's why they like stuff a bit under their age. 
-I saw a cabin in Przyslop, and another in Paszkowka. is this a good location?
-suggest also some more calm activities
+#### Thanks!
+#### my kids have ASD, that's why they like stuff a bit under their age. 
+#### I saw a cabin in Przyslop, and another in Paszkowka. is this a good location?
+#### suggest also some more calm activities
 
 
 
